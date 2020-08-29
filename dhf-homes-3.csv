@@ -1,0 +1,163 @@
+id,type,street,neighborhood,cost,bedrooms,fireplace,garage,ac,new,latitude,longitude
+964,Condo,5920 S. Capitol St.,"Waterfront, SW",162.95,1,N,N,Y,N,38.89001,-76.91543
+538,Condo,5448 S. Capitol St.,"Spout Run, VA",162.95,2,N,N,N,Y,38.8899549,-76.9233026
+53,THse,5400 S. Capitol St.,"Greenbelt, MD",162.95,2,N,N,Y,Y,38.8899549,-76.923508
+448,Condo,4938 Lehigh Avenue,"Bowie, MD",92.95,1,Y,N,Y,N,38.9787245,-76.925395
+105,Condo,5016 S. Capitol St.,"N. Laurel, MD",162.95,2,N,N,Y,Y,38.89006,-76.92938
+90,Condo,4904 S. Capitol St.,"N. Laurel, MD",162.95,2,N,N,Y,Y,38.89011,-76.93224
+427,Condo,4256 Campus Drive,"Anacostia, SE",81.95,1,N,N,N,Y,38.9885408,-76.9370954
+1027,THse,4479 Lehigh Avenue,"Jessup, MD",92.95,2,N,N,N,N,38.9816651,-76.9383001
+422,Condo,4475 Lehigh Avenue,"Anacostia, SE",92.95,2,N,N,N,Y,38.9816651,-76.9383274
+1041,THse,4371 Lehigh Avenue,"Jessup, MD",92.95,2,N,N,N,N,38.9816207,-76.9389036
+480,THse,5740 Polk Street,"Falls Church, VA",221.95,2,Y,N,N,Y,38.9096,-76.9407
+937,THse,6488 Polk Street,"Vienna, VA",221.95,2,N,N,Y,Y,38.9096,-76.9407
+951,THse,5751 Polk Street,"Vienna, VA",221.95,2,N,N,Y,Y,38.9096,-76.9407
+953,THse,6081 Polk Street,"Vienna, VA",221.95,2,N,N,Y,Y,38.9096,-76.9407
+1099,THse,9403 Polk Street,"Upper Marlboro, MD",221.95,2,Y,N,Y,Y,38.9096,-76.9407
+1100,THse,9370 Polk Street,"Upper Marlboro, MD",221.95,2,Y,N,Y,Y,38.9096,-76.9407
+206,THse,4196 Lehigh Avenue,"Mt. Rainer, NE",92.95,2,N,N,N,Y,38.9818649,-76.9430762
+197,THse,4133 Lehigh Avenue,"Mt. Rainer, NE",92.95,2,N,N,N,Y,38.9816378,-76.943992
+259,Condo,4074 Lehigh Avenue,"Adams Morgan, NW",92.95,2,N,N,N,N,38.9820049,-76.9446578
+212,THse,3880 Campus Drive,"Mt. Rainer, NE",81.95,2,N,N,N,Y,38.9852252,-76.9467851
+218,THse,3908 Campus Drive,"Mt. Rainer, NE",81.95,2,N,N,N,Y,38.9864468,-76.9470688
+214,THse,3812 Campus Drive,"Mt. Rainer, NE",81.95,2,N,N,N,Y,38.9850015,-76.9480363
+249,Condo,3780 Campus Drive,"Adams Morgan, NW",81.95,2,N,N,N,N,38.9849035,-76.9491844
+250,Condo,3704 Campus Drive,"Adams Morgan, NW",81.95,1,N,N,N,N,38.9848425,-76.9498657
+258,Condo,3696 Campus Drive,"Adams Morgan, NW",81.95,1,N,N,N,N,38.9848381,-76.9499412
+225,THse,3684 Campus Drive,"Mt. Pleasant, NW",81.95,2,Y,N,N,N,38.9848049,-76.9503528
+243,Condo,3632 Campus Drive,"Adams Morgan, NW",81.95,1,N,N,N,N,38.9848875,-76.9517929
+252,Condo,3612 Campus Drive,"Adams Morgan, NW",81.95,2,N,N,N,N,38.9849655,-76.9521961
+97,Condo,5375 Hamilton Street,"N. Laurel, MD",184.95,2,N,N,Y,Y,38.95321,-76.9550243
+885,Condo,3848 31st Street,"Wheaton, MD",140.95,2,N,Y,N,N,38.9373078,-76.9645849
+572,Condo,4464 31st Street,"Arlington, VA",140.95,1,N,N,Y,N,38.9447706,-76.9656871
+917,THse,2279 Hamilton Street,"Germantown, MD",184.95,2,N,N,N,Y,38.955153,-76.967354
+183,Condo,2277 Partridge Place,"Gaithersburg, MD",55.95,2,N,N,N,N,38.8686951,-76.9737674
+195,Condo,2277 Partridge Place,"Gaithersburg, MD",55.95,2,N,N,N,N,38.8686951,-76.9737674
+177,Condo,2275 Partridge Place,"Gaithersburg, MD",55.95,2,N,N,N,N,38.8686951,-76.9737919
+178,Condo,2255 Partridge Place,"Gaithersburg, MD",55.95,2,N,N,N,N,38.8686951,-76.9740373
+186,Condo,2220 Partridge Place,"Gaithersburg, MD",55.95,2,N,N,N,N,38.86901,-76.97408
+181,Condo,2240 Partridge Place,"Gaithersburg, MD",55.95,2,N,N,N,N,38.8689649,-76.9742493
+189,Condo,2210 Partridge Place,"Gaithersburg, MD",55.95,2,N,N,N,N,38.8689649,-76.9746249
+180,Condo,2200 Partridge Place,"Gaithersburg, MD",55.95,2,N,N,N,N,38.8689749,-76.97496
+188,Condo,2195 Partridge Place,"Gaithersburg, MD",55.95,2,N,N,N,N,38.8687054,-76.9751601
+928,THse,2513 Glass Road,"Germantown, MD",195.95,2,N,N,N,Y,38.85737,-76.98758
+924,THse,2218 Glass Road,"Germantown, MD",195.95,2,N,N,N,Y,38.85688,-76.98821
+968,Condo,6417 Glass Road,"Waterfront, SW",195.95,2,N,N,Y,N,38.85688,-76.98821
+104,Condo,4864 S. Capitol St.,"N. Laurel, MD",162.95,2,N,N,Y,Y,38.8214834,-77.001306
+809,THse,3615 Second Street,"Silver Spring, MD",103.95,2,Y,N,N,N,38.8402028,-77.0027952
+124,Condo,4415 Second Street,"College Park, MD",103.95,2,N,N,Y,Y,38.94341,-77.0039
+131,Condo,4425 Second Street,"College Park, MD",103.95,2,N,N,Y,Y,38.9434216,-77.0039568
+952,THse,5770 Webster Court,"Vienna, VA",206.95,2,N,N,Y,Y,38.94385,-77.00408
+957,THse,5820 Webster Court,"Vienna, VA",206.95,2,N,N,Y,Y,38.94385,-77.00408
+256,Condo,4335 Second Street,"Adams Morgan, NW",103.95,2,N,N,N,N,38.9416545,-77.0042451
+247,Condo,4355 Second Street,"Adams Morgan, NW",103.95,2,N,N,N,N,38.9418982,-77.0042451
+254,Condo,4320 Second Street,"Adams Morgan, NW",103.95,2,N,N,N,N,38.94197,-77.00453
+109,Condo,5048 S. Capitol St.,"N. Laurel, MD",162.95,2,N,N,Y,Y,38.9516402,-77.0091212
+763,THse,3096 S. Capitol St.,"Rockville, MD",162.95,2,N,N,N,N,38.87263,-77.00913
+770,THse,2600 S. Capitol St.,"Rockville, MD",162.95,2,N,N,N,N,38.87263,-77.00913
+920,THse,2040 S. Capitol St.,"Germantown, MD",162.95,2,N,N,N,Y,38.87263,-77.00913
+921,THse,2264 S. Capitol St.,"Germantown, MD",162.95,2,N,N,N,Y,38.9197994,-77.0092249
+600,THse,5728 S. Capitol St.,"Rossyln, VA",162.95,2,N,N,Y,N,38.9596923,-77.0092451
+929,THse,2176 S. Capitol St.,"Germantown, MD",162.95,2,N,N,N,Y,38.9188232,-77.0092849
+575,Condo,4080 Second Street,"Arlington, VA",103.95,1,N,N,Y,N,38.8308737,-77.0127228
+261,Condo,4075 Second Street,"Adams Morgan, NW",103.95,2,N,N,N,N,38.8311105,-77.0129467
+449,Condo,5305 Second Street,"Bowie, MD",103.95,1,Y,N,Y,N,38.95477,-77.01334
+454,Condo,5265 Second Street,"Bowie, MD",103.95,2,Y,N,Y,N,38.9540214,-77.0133556
+246,Condo,4150 Second Street,"Adams Morgan, NW",103.95,2,N,N,N,N,38.8295171,-77.0134458
+453,Condo,5190 Second Street,"Bowie, MD",103.95,2,Y,N,Y,N,38.9530863,-77.0136502
+251,Condo,4215 Second Street,"Adams Morgan, NW",103.95,2,N,N,N,N,38.94281,-77.01368
+438,Condo,5340 Second Street,"Bowie, MD",103.95,2,Y,N,Y,N,38.954926,-77.0137453
+255,Condo,4200 Second Street,"Adams Morgan, NW",103.95,2,N,N,N,N,38.9422867,-77.0138593
+450,Condo,5210 Second Street,"Bowie, MD",103.95,1,Y,N,Y,N,38.95391,-77.0139
+257,Condo,4270 Second Street,"Adams Morgan, NW",103.95,1,N,N,N,N,38.9428254,-77.0140411
+46,THse,4554 Hapsburg Road,"Greenbelt, MD",136.95,2,N,N,Y,Y,38.89037,-77.03196
+61,THse,4730 Hapsburg Road,"Greenbelt, MD",136.95,2,N,N,Y,Y,38.89037,-77.03196
+114,Condo,4944 Hapsburg Road,"College Park, MD",136.95,2,N,N,Y,Y,38.89037,-77.03196
+116,Condo,4814 Hapsburg Road,"College Park, MD",136.95,2,N,N,Y,Y,38.89037,-77.03196
+118,Condo,4892 Hapsburg Road,"College Park, MD",136.95,2,N,N,Y,Y,38.89037,-77.03196
+127,Condo,4951 Hapsburg Road,"College Park, MD",136.95,1,N,N,Y,Y,38.89037,-77.03196
+443,Condo,6361 Hapsburg Road,"Bowie, MD",136.95,1,Y,N,Y,N,38.89037,-77.03196
+456,Condo,6413 Hapsburg Road,"Bowie, MD",136.95,2,Y,N,Y,N,38.89037,-77.03196
+524,Condo,4749 Hapsburg Road,"Spout Run, VA",136.95,1,N,N,N,Y,38.89037,-77.03196
+526,Condo,4762 Hapsburg Road,"Spout Run, VA",136.95,2,N,N,N,Y,38.89037,-77.03196
+530,Condo,4964 Hapsburg Road,"Spout Run, VA",136.95,2,N,N,N,Y,38.89037,-77.03196
+534,Condo,4788 Hapsburg Road,"Spout Run, VA",136.95,2,N,N,N,Y,38.89037,-77.03196
+568,Condo,4281 Hapsburg Road,"Arlington, VA",136.95,2,N,N,Y,N,38.89037,-77.03196
+580,Condo,4515 Hapsburg Road,"Arlington, VA",136.95,2,N,N,Y,N,38.89037,-77.03196
+585,Condo,4476 Hapsburg Road,"Arlington, VA",136.95,2,N,N,Y,N,38.89037,-77.03196
+881,Condo,3729 Hapsburg Road,"Wheaton, MD",136.95,1,N,Y,N,N,38.89037,-77.03196
+889,Condo,3800 Hapsburg Road,"Wheaton, MD",136.95,2,N,Y,N,N,38.89037,-77.03196
+1023,THse,5562 Hapsburg Road,"Jessup, MD",136.95,2,N,N,N,N,38.89037,-77.03196
+1038,THse,5724 Hapsburg Road,"Jessup, MD",136.95,2,N,N,N,N,38.89037,-77.03196
+485,THse,5151 Paint Branch Rd.,"Falls Church, VA",232.95,2,Y,N,N,Y,38.951698,-77.0344625
+938,THse,6968 Beach Drive,"Vienna, VA",243.95,2,N,N,Y,Y,38.93765,-77.04939
+179,Condo,2294 Tilden Road,"Gaithersburg, MD",66.95,2,N,N,N,N,38.94026,-77.05189
+185,Condo,2330 Tilden Road,"Gaithersburg, MD",66.95,2,N,N,N,N,38.94026,-77.05189
+893,Condo,2875 Conneticut Ave.,"Wheaton, MD",70.95,2,N,Y,N,N,38.9279263,-77.0538915
+902,Condo,2934 Conneticut Ave.,"Wheaton, MD",70.95,2,N,Y,N,N,38.9287949,-77.0547677
+441,Condo,6578 31st Street,"Bowie, MD",140.95,2,Y,N,Y,N,38.975389,-77.0568978
+380,THse,3515 Conneticut Ave.,"Brookland, NE",70.95,2,N,N,Y,N,38.93618,-77.0582
+227,THse,3533 Conneticut Ave.,"Mt. Pleasant, NW",70.95,2,Y,N,N,N,38.9358463,-77.058451
+242,Condo,3589 Conneticut Ave.,"Adams Morgan, NW",70.95,2,N,N,N,N,38.9359468,-77.0585069
+228,THse,3508 Conneticut Ave.,"Mt. Pleasant, NW",70.95,2,Y,N,N,N,38.93593,-77.05902
+219,THse,3578 Conneticut Ave.,"Mt. Pleasant, NW",70.95,2,Y,N,N,N,38.9365421,-77.059229
+392,THse,3743 Conneticut Ave.,"Brookland, NE",70.95,2,N,N,Y,N,38.9387099,-77.0601736
+424,Condo,3865 Conneticut Ave.,"Anacostia, SE",70.95,2,N,N,N,Y,38.9396803,-77.0607054
+540,Condo,5073 31st Street,"Spout Run, VA",140.95,1,N,N,N,Y,38.90764,-77.06123
+878,Condo,3750 31st Street,"Wheaton, MD",140.95,2,N,Y,N,N,38.90764,-77.06123
+883,Condo,3715 31st Street,"Wheaton, MD",140.95,2,N,Y,N,N,38.90764,-77.06123
+418,Condo,3977 Conneticut Ave.,"Anacostia, SE",70.95,2,N,N,N,Y,38.9407988,-77.0613657
+423,Condo,4023 Conneticut Ave.,"Anacostia, SE",70.95,2,N,N,N,Y,38.941591,-77.0618346
+578,Condo,4583 31st Street,"Arlington, VA",140.95,2,N,N,Y,N,38.9495737,-77.0627851
+537,Condo,4618 31st Street,"Spout Run, VA",140.95,2,N,N,N,Y,38.9498572,-77.0630549
+764,THse,3170 Jones Street,"Rockville, MD",151.95,2,N,N,N,N,38.9103345,-77.065263
+95,Condo,4595 Jones Street,"N. Laurel, MD",151.95,2,N,N,Y,Y,38.90999,-77.06549
+771,THse,2907 Jones Street,"Rockville, MD",151.95,2,N,N,N,N,38.90999,-77.06549
+776,THse,2772 Jones Street,"Rockville, MD",151.95,2,N,N,N,N,38.90999,-77.06549
+965,Condo,5540 Jones Street,"Waterfront, SW",151.95,2,N,N,Y,N,38.90999,-77.06549
+969,Condo,5630 Jones Street,"Waterfront, SW",151.95,2,N,N,Y,N,38.90999,-77.06549
+970,Condo,5675 Jones Street,"Waterfront, SW",151.95,1,N,N,Y,N,38.90999,-77.06549
+973,Condo,5675 Jones Street,"Waterfront, SW",151.95,1,N,N,Y,N,38.90999,-77.06549
+975,Condo,5690 Jones Street,"Waterfront, SW",151.95,2,N,N,Y,N,38.90999,-77.06549
+384,THse,3512 Tilden Road,"Brookland, NE",66.95,2,N,N,Y,N,38.941236,-77.0698958
+430,Condo,3632 Tilden Road,"Anacostia, SE",66.95,1,N,N,N,Y,38.9411131,-77.0713978
+429,Condo,3635 Tilden Road,"Anacostia, SE",66.95,2,N,N,N,Y,38.9413623,-77.0719976
+420,Condo,3716 Tilden Road,"Anacostia, SE",66.95,1,N,N,N,Y,38.9410852,-77.0722455
+417,Condo,3707 Tilden Road,"Anacostia, SE",66.95,1,N,N,N,Y,38.9413549,-77.0722533
+419,Condo,3749 Tilden Road,"Anacostia, SE",66.95,2,N,N,N,Y,38.9413549,-77.0722533
+521,Condo,5672 Wisconsin Avenue,"Reston, VA",276.95,2,N,N,Y,N,38.9661875,-77.0885706
+175,Condo,2324 Campus Drive,"Gaithersburg, MD",81.95,2,N,N,N,N,38.91865,-77.08998
+182,Condo,2284 Campus Drive,"Gaithersburg, MD",81.95,2,N,N,N,N,38.91865,-77.08998
+191,Condo,2460 Campus Drive,"Gaithersburg, MD",81.95,1,N,N,N,N,38.91865,-77.08998
+194,Condo,2348 Campus Drive,"Gaithersburg, MD",81.95,2,N,N,N,N,38.91865,-77.08998
+895,Condo,3210 Second Street,"Wheaton, MD",103.95,2,N,Y,N,N,38.869543,-77.0929539
+910,Condo,3225 Second Street,"Wheaton, MD",103.95,2,N,Y,N,N,38.869793,-77.0930844
+896,Condo,3275 Second Street,"Wheaton, MD",103.95,1,N,Y,N,N,38.8696039,-77.0938648
+888,Condo,3295 Second Street,"Wheaton, MD",103.95,2,N,Y,N,N,38.8694899,-77.0943185
+905,Condo,3300 Second Street,"Wheaton, MD",103.95,2,N,Y,N,N,38.8692048,-77.0943279
+859,Condo,3340 Second Street,"Silver Spring, MD",103.95,2,N,Y,N,Y,38.8690259,-77.0950736
+912,Condo,3405 Second Street,"Wheaton, MD",103.95,1,N,Y,N,N,38.8692017,-77.0954548
+875,Condo,3415 Second Street,"Wheaton, MD",103.95,1,N,Y,N,N,38.8691953,-77.0954842
+863,Condo,3430 Second Street,"Silver Spring, MD",103.95,2,N,Y,N,Y,38.8688059,-77.0959527
+861,Condo,3515 Second Street,"Silver Spring, MD",103.95,1,N,Y,N,Y,38.8690277,-77.0961844
+867,Condo,3500 Second Street,"Silver Spring, MD",103.95,2,N,Y,N,Y,38.8687385,-77.0962103
+857,Condo,3540 Second Street,"Silver Spring, MD",103.95,2,N,Y,N,Y,38.8686999,-77.0963574
+581,Condo,4765 31st Street,"Arlington, VA",140.95,2,N,N,Y,N,38.8366128,-77.0967386
+24,THse,4856 31st Street,"Beltsville, MD",140.95,2,N,N,Y,Y,38.8359279,-77.0983296
+542,Condo,4898 31st Street,"Spout Run, VA",140.95,2,N,N,N,Y,38.8358918,-77.0984162
+512,Condo,4899 Dorset Avenue,"Reston, VA",265.95,1,N,N,Y,N,38.968541,-77.0988691
+516,Condo,4990 Dorset Avenue,"Reston, VA",265.95,1,N,N,Y,N,38.9684888,-77.1007768
+515,Condo,5042 Dorset Avenue,"Reston, VA",265.95,2,N,N,Y,N,38.968551,-77.101288
+507,Condo,5133 Dorset Avenue,"Reston, VA",265.95,2,N,N,Y,N,38.9689491,-77.1020097
+504,Condo,5341 Dorset Avenue,"Reston, VA",265.95,2,N,N,Y,N,38.9694826,-77.1067618
+519,Condo,5315 Dorset Avenue,"Reston, VA",265.95,2,N,N,Y,N,38.96958,-77.10685
+511,Condo,5510 Dorset Avenue,"Reston, VA",265.95,2,N,N,Y,N,38.9692105,-77.1097043
+522,Condo,5614 Dorset Avenue,"Reston, VA",265.95,2,N,N,Y,N,38.9690769,-77.1098283
+894,Condo,3024 Campus Drive,"Wheaton, MD",81.95,2,N,Y,N,N,38.8393914,-77.1117843
+854,Condo,3088 Campus Drive,"Silver Spring, MD",81.95,2,N,Y,N,Y,38.8393943,-77.1117872
+903,Condo,3108 Campus Drive,"Wheaton, MD",81.95,2,N,Y,N,N,38.8393953,-77.1117881
+851,Condo,3156 Campus Drive,"Silver Spring, MD",81.95,2,N,Y,N,Y,38.8393975,-77.1117903
+908,Condo,3156 Campus Drive,"Wheaton, MD",81.95,2,N,Y,N,N,38.8393975,-77.1117903
+821,THse,3212 Campus Drive,"Silver Spring, MD",81.95,2,Y,N,N,N,38.8394,-77.1117929
+426,Condo,4300 Campus Drive,"Anacostia, SE",81.95,2,N,N,N,Y,38.8394153,-77.1118079
+1039,THse,4790 Second Street,"Jessup, MD",103.95,2,N,N,N,N,38.8697651,-77.1147531
