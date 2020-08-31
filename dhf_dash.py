@@ -39,6 +39,7 @@ app.layout = \
         dbc.Row(dbc.Col(html.H1("Dynamic HomeFinder"), width={'size': 6, 'offset': 5}), ),
 
         # Radio items to display all homes in df or only the selected ones
+        html.P("Filter dataset:"),
         dbc.Row(dbc.Col(dcc.RadioItems(id='all_homes',
                                        options=[
                                            {'label': 'All', 'value': 'all'},
@@ -51,43 +52,6 @@ app.layout = \
 
         dbc.Row([
             dbc.Col([
-                # Dropdown menu for type of house
-                html.P("Filter by well status:"),
-                dcc.Dropdown(id='select_type',
-                             options=[
-                                 {'label': str(i), 'value': i} for i in sorted(df['type'].unique())
-                             ],
-                             multi=True,
-                             value=[b for b in sorted(df['type'].unique())],
-                             style={'width': '65%'},
-                             ),
-
-                # Prints out selected type
-                html.Div(id='output_type', children=[]),
-                html.Br(),
-
-                # Checklist fireplace
-                html.P("Filter by fireplace:"),
-                dcc.Checklist(id='select_fireplace',
-                              options=[
-                                  {'label': str(i), 'value': i} for i in sorted(df['fireplace'].unique())
-                              ],
-                              value=[i for i in sorted(df['fireplace'].unique())],
-                              style={'width': '40%'},
-                              ),
-                html.Br(),
-
-                # Checklist attributes
-                html.P("Filter by garage:"),
-                dcc.Checklist(id='select_garage',
-                              options=[
-                                  {'label': str(i), 'value': i} for i in sorted(df['garage'].unique())
-                              ],
-                              value=[i for i in sorted(df['garage'].unique())],
-                              style={'width': '40%'},
-                              ),
-                html.Br(),
-
                 # Checklist roomnumber
                 html.P("Filter by rooms:"),
                 dcc.Checklist(id='room_number',
@@ -97,7 +61,32 @@ app.layout = \
                               value=[i for i in sorted(df['bedrooms'].unique())],
                               style={'width': '40%'},
                               ),
+            ]),
 
+            dbc.Col([
+                # Checklist fireplace
+                html.P("Filter by fireplace:"),
+                dcc.Checklist(id='select_fireplace',
+                              options=[
+                                  {'label': str(i), 'value': i} for i in sorted(df['fireplace'].unique())
+                              ],
+                              value=[i for i in sorted(df['fireplace'].unique())],
+                              style={'width': '40%'},
+                              ),
+            ]),
+
+            dbc.Col([
+                # Checklist attributes
+                html.P("Filter by garage:"),
+                dcc.Checklist(id='select_garage',
+                              options=[
+                                  {'label': str(i), 'value': i} for i in sorted(df['garage'].unique())
+                              ],
+                              value=[i for i in sorted(df['garage'].unique())],
+                              style={'width': '40%'},
+                              ),
+            ]),
+            dbc.Col([
                 # Checklist Air Conditioner
                 html.P("Filter by air conditioner:"),
                 dcc.Checklist(id='select_air',
@@ -107,7 +96,8 @@ app.layout = \
                               value=[i for i in sorted(df['ac'].unique())],
                               style={'width': '40%'},
                               ),
-
+            ]),
+            dbc.Col([
                 # Checklist New
                 html.P("Filter by new:"),
                 dcc.Checklist(id='select_new',
@@ -117,6 +107,26 @@ app.layout = \
                               value=[i for i in sorted(df['new'].unique())],
                               style={'width': '40%'},
                               ),
+            ]),
+        ]),
+        html.Br(),
+
+        dbc.Row([
+            dbc.Col([
+                # Dropdown menu for type of house
+                html.P("Filter by well status:"),
+                dcc.Dropdown(id='select_type',
+                             options=[
+                                 {'label': str(i), 'value': i} for i in sorted(df['type'].unique())
+                             ],
+                             multi=True,
+                             value=[i for i in sorted(df['type'].unique())],
+                             style={'width': '65%'},
+                             ),
+
+                # Prints out selected type
+                html.Div(id='output_type', children=[]),
+                html.Br(),
 
                 # Dropdown menu for all neighborhoods
                 html.P("Filter by neighborhood:"),
@@ -126,7 +136,7 @@ app.layout = \
                              ],
                              multi=True,
                              value=[i for i in sorted(df['neighborhood'].unique())],
-                             style={'width': '80%'},
+                             style={'width': '90%'},
                              ),
             ]),
 
@@ -156,17 +166,17 @@ app.layout = \
 # Connection between graphs and components
 @app.callback(
     [Output(component_id='output_type', component_property='children'),
-         Output(component_id='output_price', component_property='children'),
-         Output(component_id='my_dynamichomefinder', component_property='figure')],
+     Output(component_id='output_price', component_property='children'),
+     Output(component_id='my_dynamichomefinder', component_property='figure')],
     [Input(component_id='all_homes', component_property='value'),
-         Input(component_id='select_type', component_property='value'),
-         Input(component_id='select_fireplace', component_property='value'),
-         Input(component_id='select_garage', component_property='value'),
-         Input(component_id='select_neighborhood', component_property='value'),
-         Input(component_id='room_number', component_property='value'),
-         Input(component_id='select_air', component_property='value'),
-         Input(component_id='select_new', component_property='value'),
-         Input(component_id='price_range', component_property='value')
+     Input(component_id='select_type', component_property='value'),
+     Input(component_id='select_fireplace', component_property='value'),
+     Input(component_id='select_garage', component_property='value'),
+     Input(component_id='select_neighborhood', component_property='value'),
+     Input(component_id='room_number', component_property='value'),
+     Input(component_id='select_air', component_property='value'),
+     Input(component_id='select_new', component_property='value'),
+     Input(component_id='price_range', component_property='value')
      ]
 )
 # Updating graph with input data
